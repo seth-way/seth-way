@@ -16,9 +16,9 @@
 
 ---
 
-### I'm a Military Veteran with 5+ of active duty experience seeking a career in Software Development 🧑‍💻.
+### I'm a Military Veteran <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Military%20Helmet.png" alt="Military Helmet" width="25" height="25" /> with 5+ of active duty experience seeking a career in Software Development <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium-Light%20Skin%20Tone.png" alt="Man Technologist Medium-Light Skin Tone" width="25" height="25" />.
 
-I do my best work while solving problems in a demanding, project-oriented environment ⚡💡.
+I do my best work while solving problems in a demanding, project-oriented environment <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="25" height="25" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Light Bulb" width="25" height="25" />.
 
 I have a team-first attitude with a passion for collaboration and continued learning.
 
@@ -26,13 +26,13 @@ I have a team-first attitude with a passion for collaboration and continued lear
 
 ---
 
-- 🌱 I’m currently learning ReactJS & chai unit testing.  
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" alt="Seedling" width="25" height="25" /> I’m currently learning ReactJS & chai unit testing.  
   
 
-- ❓ Let's talk about front-end development & creating the best possible UI/UX.  
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Red%20Question%20Mark.png" alt="Red Question Mark" width="25" height="25" /> Let's talk about front-end development & creating the best possible UI/UX.  
   
 
-- 🐠 Fun fact: In 2015, I received my NAUI open-water beginners SCUBA cert in Dubrovnik, Croatia.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fish.png" alt="Fish" width="25" height="25" /> Fun fact: In 2015, I received my NAUI open-water beginners SCUBA cert in Dubrovnik, Croatia.
   
 
 <br/>  
