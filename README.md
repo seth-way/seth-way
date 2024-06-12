@@ -1,5 +1,20 @@
 <div align="center">
 <img src="profile-pic.png" align="center" style="width:30%" />
+<br/>
+  <br/>
+<div align="center">
+<a href="https://github.com/seth-way" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://codepen.com/seth-way" target="_blank">
+<img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/sethway" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>  
+
+---
 
 ### I'm a Military Veteran with 5+ of active duty experience seeking a career in Software Development 🧑‍💻.
 
@@ -52,23 +67,7 @@ I have a team-first attitude with a passion for collaboration and continued lear
 </div>
 <br/>  
 
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/seth-way" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://codepen.com/seth-way" target="_blank">
-<img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/sethway" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
 <br/>  
-
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=seth-way&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
