@@ -32,7 +32,7 @@ I have a team-first attitude with a passion for collaboration and continued lear
 - ❓ Let's talk about front-end development & creating the best possible UI/UX.  
   
 
-- 🐠 Fun fact: In 2015, I received my NAUI open-water beginners SCUBA cert in Dubrovnik, Croatia  
+- 🐠 Fun fact: In 2015, I received my NAUI open-water beginners SCUBA cert in Dubrovnik, Croatia.
   
 
 <br/>  
