@@ -1,11 +1,11 @@
 <div align="center">
-<img src="profile-pic.png" align="center" style="width: 400px" />
+<img src="profile-pic.png" align="center" style="width:30%" />
 
 ### I'm a Military Veteran with 5+ of active duty experience seeking a career in Software Development 🧑‍💻.
 
 I do my best work while solving problems in a demanding, project-oriented environment ⚡💡.
 
-I have a team-first attitude with a passion for collaboration and continued learning.  
+I have a team-first attitude with a passion for collaboration and continued learning.
 
 </div> 
 
