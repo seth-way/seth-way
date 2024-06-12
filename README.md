@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="profile-pic.png" align="center" style="width: 400px" />
 
 ### I'm a Military Veteran with 5+ of active duty experience seeking a career in Software Development 🧑‍💻.
 
@@ -23,7 +23,8 @@ I have a team-first attitude with a passion for collaboration and continued lear
 <br/>  
 
 
-## My Skill Set  
+## My Skill Set
+<div align-"center">
 <table><tr><td valign="top" width="33%">
 
 
@@ -48,7 +49,7 @@ I have a team-first attitude with a passion for collaboration and continued lear
 </div>
 
 </td></tr></table>  
-
+</div>
 <br/>  
 
 
