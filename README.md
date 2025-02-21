@@ -39,7 +39,7 @@ I have a team-first attitude with a passion for collaboration and continued lear
 
 ## [My Portfolio](https://sethway.vercel.app)
 <div align="center">  
-<img src="https://raw.githubusercontent.com/seth-way/portfolio/main/src/assets/images/site-nav.gif"/>
+<img src="https://raw.githubusercontent.com/seth-way/portfolio/main/src/assets/images/site-nav.gif" alt="Portfolio Navigation" style="width: 500px;"/>
 </div>
 
 <br/>  
